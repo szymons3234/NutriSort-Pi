@@ -107,9 +107,9 @@ conveyor.png              # Zdjęcie stanowiska fizycznego (taśma)
 
 ## 📃 Autorzy
 
-Szymon Skrzypek
-Karol Piotrowski 
-Dawid Socha
+Szymon Skrzypek,
+Karol Piotrowski,
+Dawid Socha,
 Patryk Sieja
 ---
 
@@ -221,7 +221,7 @@ conveyor.png              # Conveyor setup photo
 
 ## 📃 Authors
 
-Szymon Skrzypek
-Karol Piotrowski 
-Dawid Socha
+Szymon Skrzypek,
+Karol Piotrowski,
+Dawid Socha,
 Patryk Sieja
