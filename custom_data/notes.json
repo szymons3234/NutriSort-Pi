@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "nut"
+    },
+    {
+      "id": 1,
+      "name": "pad"
+    },
+    {
+      "id": 2,
+      "name": "screw"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
