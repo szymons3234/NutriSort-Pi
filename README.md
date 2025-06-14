@@ -1,7 +1,7 @@
 # 🥜🤖 NutriSort-Pi  
 **Inteligentny system detekcji i sortowania nakrętek z użyciem YOLOv8 i Raspberry Pi**
 
-![Schemat systemu](schema.png)
+![Schemat systemu](conveyor.png)
 
 NutriSort-Pi to w pełni zintegrowany system służący do wykrywania i sortowania nakrętek (lub innych małych obiektów) w czasie rzeczywistym. Wykorzystuje kamerę USB, Raspberry Pi, model YOLOv8 oraz komponenty mechaniczne – serwomechanizm i silnik krokowy – aby skutecznie zidentyfikować i przekierować wybrane elementy. Projekt może znaleźć zastosowanie w edukacji, automatyzacji produkcji i systemach inspekcji wizyjnej.
 
@@ -91,6 +91,12 @@ conveyor.png              # Zdjęcie stanowiska fizycznego (taśma)
 
 ---
 
+## 📽️ Link do wideo demonstracyjnego
+
+🎬 [Kliknij tutaj, aby obejrzeć demonstrację](https://youtu.be/Ah3cAaL4SCw) 
+
+---
+
 ## 📌 Dodatkowe informacje
 
 - Centrum obrazu oznaczone jest czerwonym okręgiem jako strefa aktywacji
@@ -110,7 +116,7 @@ Patryk Sieja
 # 🇬🇧 NutriSort-Pi  
 **Intelligent Nut Detection and Sorting System using YOLOv8 and Raspberry Pi**
 
-![System schema](schema.png)
+![System schema](conveyor.png)
 
 NutriSort-Pi is a fully integrated real-time object detection and sorting system designed for small items like nuts. It uses a USB camera, Raspberry Pi, YOLOv8 neural network, and mechanical components (servo and stepper motor) to identify and physically sort items on a conveyor. Ideal for educational, prototyping, or automation purposes.
 
@@ -200,6 +206,11 @@ conveyor.png              # Conveyor setup photo
 
 ---
 
+## 📽️ Demo video link
+
+🎬 [Click here to watch the demo](https://youtu.be/Ah3cAaL4SCw) 
+
+---
 ## 📌 Additional Notes
 
 - Center of the frame marked with a red circle = activation zone
